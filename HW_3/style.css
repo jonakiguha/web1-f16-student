@@ -22,10 +22,24 @@ p.warhol {
 	max-width: 10em;
 }
 
-
-.figcaption {
-	max-width: 30em;
+figcaption {
+	max-width: 10em;
 }
+
+#marilyn {
+	color: pink;
+}
+
+figcaption em {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.portrait {
+	border: solid 2px red;
+}
+
+
 .beforeandafter {
 	max width: 10em;
 	background color: red;
