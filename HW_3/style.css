@@ -7,6 +7,7 @@ body {
 	
 }
 h1 {
+	margin-left: 35em
 	font-size: 5.5em;
 	line-height: 0.5em;
 	color: #ff5733;
@@ -25,3 +26,5 @@ p {
 .figcaption {
 	max-width: 30em;
 }
+
+p.solid {border-style: solid;}
