@@ -79,9 +79,8 @@ right: 0; top: 0;
 nav ul {
 	padding: 1em;
 }
-nav li {
-	margin-right: 2em;
-ul li {
+
+nav ul li {
 	display: inline;
 	padding: 14px 16px;
 	
@@ -94,16 +93,19 @@ nav a:hover {
 	color: red;
 	text-decoration: underline;	
 }
-.movie-screens {
+#movie-screens {
 	color: white;
 	background-color: brown;
-}
-
-.all-images {
+	
 	margin-bottom: 4em;
 	padding: 1em;
-	max-width: 10em;
+	max-width: 600px;
 }
+#movie-screens img {
+	float: left;
+	width: 200px;
+}
+
 
 
 
