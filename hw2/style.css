@@ -56,10 +56,10 @@ blockquote {
 p.solid {border-style: solid;}
 
 p.gallery {
-	margin-left: 5em;  
-	margin-bottom: 1.5em;
+	position:absolute;
+	margin-left: 4em;  
+	margin-bottom: 2.5em;
 	float: left;
-	
 }
 
 p.Week 2 {
@@ -93,5 +93,17 @@ nav a {
 nav a:hover {
 	color: red;
 	text-decoration: underline;	
-}*/
+}
+.movie-screens {
+	color: white;
+	background-color: brown;
+}
+
+.all-images {
+	margin-bottom: 4em;
+	padding: 1em;
+	max-width: 10em;
+}
+
+
 
