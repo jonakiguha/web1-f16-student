@@ -28,7 +28,8 @@ p {
 	}
 h3 { 
 	font:  3.4em gill sans, sans-serif;
-	letter-spacing: 0.8px; 
+	font-weight: bold;
+	letter-spacing: 0.7px; 
 	margin-bottom: 0.6em; 
 	color: #6d1212;
 	}
@@ -177,10 +178,10 @@ footer a:link, footer a:visited {
 	background: url(https://s-media-cache-ak0.pinimg.com/564x/2e/db/fd/2edbfddb72974e31a56685ee46760f4a.jpg);
 	}
 .sidebar li a:link {
-	color: red;
+	color: white;
 	}
 .sidebar li a:visited {
-	color: white;
+	color: red;
 	}
 
 
@@ -189,6 +190,6 @@ footer a:link, footer a:visited {
 	position: fixed; 
 	top: 40px; 
 	right: 0; 
-	width: 148px; 
+	width: 128px; 
 	height: 110px;
 	}
