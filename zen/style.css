@@ -35,7 +35,7 @@ h3 {
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #6d1212;
+	color: blue;
 	}
 a:visited { 
 	font-weight: bold; 
@@ -65,7 +65,7 @@ abbr {
 	}
 
 header h1 { 
-	background: transparent url(http://csszengarden.com/001/h1.gif) no-repeat top left;
+	background: transparent url(file:///Users/jkguha/Desktop/1.html) no-repeat top left;
 	margin-top: 20px;
 	display: block;
 	width: 219px;
