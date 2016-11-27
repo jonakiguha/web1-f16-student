@@ -29,33 +29,44 @@ li a:hover:not(.active) {
     background-color: #00e68a;
     color: white;
 }
+#images img {
+	width: 250 px;
+	display: inline;
+	
+}
+#images {	
+	margin-bottom: 2.1em;
+	padding: 1em;
+	max-width: 71em;
+}
+
 body {
 	  
-	font-family: circular std bold;
+	font-family: circular std book;
 	margin-left: 6em;
-	font-size: 30px;
-	background:  url("ring1.png") 90% no-repeat fixed;
+	font-size: 28px;
+	background:  url("vessel2.png") .03 50% no-repeat fixed;
 	background-size: cover; 
 		background attachment: scroll fixed;
 	margin-top: 4em;
 	margin-bottom: 0;
 	margin-left: 2em;
 	margin-right: 0;
-	margin-top: 1em;
-	max-width: 45em;
+	margin-top: 2em;
+	max-width: 46em;
 
 }
 h1 {
 	font weight: bold;
-	font-size: 1.7em;
+	font-size: 3.1em;
 	line-height: 1.5em;
-	color: 800000;
+	color: black;
 	
 }
 h2 {
 	font-size: 2.5em;
 	font-weight: normal;
-	line-height: 1.9em;
+	line-height: 1.2em;
 }
 
 #logo {
@@ -63,5 +74,6 @@ h2 {
 	font-family: Natasha;
 	color: black;
 }
+
 
 	

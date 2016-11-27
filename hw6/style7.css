@@ -29,33 +29,43 @@ li a:hover:not(.active) {
     background-color: #00e68a;
     color: white;
 }
+#image img {
+	width: 250 px;
+	
+}
+#image {	
+	padding: 1em;
+	max-width: 11em;
+	margin-bottom: 2em;
+}
+
 body {
 	  
-	font-family: circular std bold;
+	font-family: circular std book;
 	margin-left: 6em;
-	font-size: 30px;
-	background:  url("ring1.png") 90% no-repeat fixed;
+	font-size: 28px;
+	background:  white;
 	background-size: cover; 
 		background attachment: scroll fixed;
 	margin-top: 4em;
 	margin-bottom: 0;
 	margin-left: 2em;
 	margin-right: 0;
-	margin-top: 1em;
-	max-width: 45em;
+	margin-top: 2em;
+	max-width: 36em;
 
 }
 h1 {
 	font weight: bold;
-	font-size: 1.7em;
+	font-size: 3.1em;
 	line-height: 1.5em;
-	color: 800000;
+	color: black;
 	
 }
 h2 {
 	font-size: 2.5em;
 	font-weight: normal;
-	line-height: 1.9em;
+	line-height: 1.2em;
 }
 
 #logo {
@@ -63,5 +73,6 @@ h2 {
 	font-family: Natasha;
 	color: black;
 }
+
 
 	
