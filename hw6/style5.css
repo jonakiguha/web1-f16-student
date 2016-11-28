@@ -29,15 +29,18 @@ li a:hover:not(.active) {
     background-color: #00e68a;
     color: white;
 }
-#images img {
-	width: 250 px;
+.images img {
+	width: 250px;
 	display: inline;
 	
 }
-#images {	
+.images {	
 	margin-bottom: 2.1em;
 	padding: 1em;
 	max-width: 71em;
+}
+p {
+	max-width: 20em;
 }
 
 body {
@@ -53,7 +56,6 @@ body {
 	margin-left: 2em;
 	margin-right: 0;
 	margin-top: 2em;
-	max-width: 46em;
 
 }
 h1 {
