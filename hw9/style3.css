@@ -1,13 +1,14 @@
 body {
 	
-	font-size: 4.4em;
-	font-family: Avenir;
+	font-size: 5.8em;
+    font-family: Avenir;
 	color:  #ffffff;
-	margin-left: 6.4em;
-	margin-top: 3.75em;
+	margin-left: 6.15em;
+	margin-top: 2.15em;
 	background: url("https://media.giphy.com/media/ic0JgV127XEWY/giphy.gif") no-repeat center fixed;
 	background attachment: scroll;
 		background-size: cover; 
+		position: static;
 	}
 	
 	p {
@@ -15,6 +16,24 @@ body {
 		font-family: Avenir;
 		color:  #ffffff;
 	}
+	
+	#enter {
+		font-family: Avenir;
+		
+		color: white;
+		margin-left: 9.7em;
+		margin-bottom: 3em;
+		margin-top: 0.1em;
+		font-weight: bold;
+		}
+		
+		li a:hover:not(.active) {
+		    color: black;
+		}
+		
+		
+		
+
 /*	
 http://pre00.deviantart.net/1f2a/th/pre/f/2012/056/4/5/green_high_res_texture_by_unofficialdear-d4qybig.jpg
 	
