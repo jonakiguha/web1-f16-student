@@ -17,6 +17,9 @@ origin/master
     height: 200%;
     overflow: auto;
 }
+p {
+	max-width: 25em;
+}
 
 li a {
     display: block;
@@ -52,7 +55,7 @@ body {
 	margin-left: 2em;
 	margin-right: 0;
 	margin-top: 2em;
-	max-width: 36em;
+	max-width: 46em;
 
 }
 h1 {
