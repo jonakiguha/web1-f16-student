@@ -30,7 +30,7 @@ li a:hover:not(.active) {
     color: white;
 }
 .images img {
-	width: 250px;
+	width: 393px;
 	display: inline;
 	
 }
@@ -40,7 +40,7 @@ li a:hover:not(.active) {
 	max-width: 71em;
 }
 p {
-	max-width: 20em;
+	max-width: 23em;
 }
 
 body {
