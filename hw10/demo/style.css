@@ -1,10 +1,11 @@
 body {
 	font-family: Avenir;
+	color: #00334d;
 	margin-left: 6em;
 	background-color: F4F6F6;
 	margin-top: 4em;
 	max-width: 42em;
-		
+	text-align: center;
 }
 h1 {
 	font-size: 4em;
@@ -16,4 +17,25 @@ h2 {
 	font-size: 2.5em;
 	font-weight: normal;
 	line-height: 1.9em;
+}
+div.background {
+  background: url(https://s-media-cache-ak0.pinimg.com/564x/bb/2c/0b/bb2c0b3c4df165de3052906d0d93602d.jpg) repeat;
+  border: 2px solid white;
+  text-align: left;
+}
+
+div.transbox {
+  margin: 90px;
+  padding: 3em;
+  align: center;
+  background-color: #ffffff;
+  border: 1px solid white;
+  opacity: 0.92;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: book;
+  color: #000000;
 }
